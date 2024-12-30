@@ -1,7 +1,5 @@
 # 📊 Economic Data Analysis Project via Federal Reserve Economic Data (FRED)
 
-# Spotify Streaming Insights: Análise e Previsão de Tendências Musicais
-
 <p align="center">
   <a href="https://github.com/Edu-png">
     <img src="https://img.shields.io/badge/Autor-Eduardo%20Coqueiro-purple?style=flat&logo=github" alt="Autor">
