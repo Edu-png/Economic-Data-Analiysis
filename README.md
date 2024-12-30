@@ -37,8 +37,7 @@
    - [Reflexões](#reflexões)
    - [Próximos Passos](#próximos-passos)
 7. [Referências 📚](#referências-📚)
-8. [Documentação 📚](#documentação-📚)
-9. [Agradecimentos 👏](#agradecimentos-👏)
+8. [Agradecimentos 👏](#agradecimentos-👏)
 
 ## Resumo 📄
 
@@ -199,13 +198,21 @@ Este projeto demonstra como dados econômicos podem ser explorados para gerar in
    - Documentação oficial da FRED API: [https://fred.stlouisfed.org/docs/api/](https://fred.stlouisfed.org/docs/api/)
    - Estilo de gráficos `fivethirtyeight`: [https://matplotlib.org/stable/gallery/style_sheets/fivethirtyeight.html](https://matplotlib.org/stable/gallery/style_sheets/fivethirtyeight.html)
 
-## Documentação 📚
-- **[Notebook da Limpeza dos Dados](link_do_notebook_limpeza)**
-- **[Notebook da Análise Exploratória dos Dados](link_do_notebook_eda)**
-- **[Notebook das Previsões com Machine Learning](link_do_notebook_ml)**
-
 ## Agradecimentos 👏
-Agradecimentos especiais ao Spotify por fornecer acesso à sua API e aos desenvolvedores de bibliotecas open-source que tornaram este projeto possível e também ao site Kagle por disponibiliza-los! 
+
+Gostaríamos de expressar nossa gratidão às pessoas e ferramentas que tornaram este projeto possível:
+
+- **Plataforma FRED (Federal Reserve Economic Data)**: Pela disponibilização gratuita de dados econômicos confiáveis e atualizados.
+- **Criadores de Bibliotecas Open-Source**: Como `Pandas`, `Matplotlib`, `Plotly` e `FredAPI`, que facilitaram a análise e visualização de dados.
+- **Vídeo Inspirador no YouTube**: Obrigado ao canal que ajudou a estruturar a abordagem deste projeto ([veja o vídeo aqui](https://www.youtube.com/watch?v=R67XuYc9NQ4&t=14s)).
+- **Comunidade de Ciência de Dados**: Pela troca constante de conhecimento e apoio no desenvolvimento de habilidades técnicas.
+- **Colaboradores e Colegas**: Que contribuíram com ideias, revisões e suporte durante o processo de criação.
+
+Este projeto é uma prova do poder da colaboração e do acesso aberto ao conhecimento. Muito obrigado a todos os envolvidos direta ou indiretamente! 🙌
+
+---
+Se precisar incluir mais agradecimentos específicos, é só avisar!
+
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/54afb33c-97be-40b6-8c96-0f12852e946f" alt="thank-you" width="500">
